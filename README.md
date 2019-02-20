@@ -5,7 +5,7 @@ Portafolio de evidencias de programacion Web grupo BB
 <a href="https://edgarmtzs.github.io/MatrizdeEstilos.html">practica1 </a>
 
 
- https://edgarmtzs.github.io/MatrizdeEstilos.html
+
 
  practica 2
  
